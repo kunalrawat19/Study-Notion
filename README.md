@@ -33,7 +33,6 @@ StudyNotion is a full-stack EdTech platform designed to create a comprehensive l
 1. Clone the repository:
    ```sh
    git clone https://github.com/kunalrawat19/Study-Notion.git
-   cd studynotion
    ```
 2. Install dependencies:
    ```sh
