@@ -11,8 +11,8 @@ StudyNotion is a full-stack EdTech platform designed to create a comprehensive l
 - [Usage](#usage)  
 
 ## Screenshots
-https://res.cloudinary.com/ddsqjzrow/image/upload/v1727244285/image_5_k1fofr.png
-  
+![StudyNotion Screenshot](https://res.cloudinary.com/ddsqjzrow/image/upload/v1727244285/image_5_k1fofr.png)
+
 ## Features
 - **User Authentication:** Secure login and registration using JWT authentication.
 - **Course Management:** Students can browse, purchase, and access courses, while instructors can create and list courses.
