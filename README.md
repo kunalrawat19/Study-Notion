@@ -3,6 +3,16 @@
 ## Overview
 StudyNotion is a full-stack EdTech platform designed to create a comprehensive learning ecosystem for students and instructors. The platform enables seamless user authentication, intuitive course browsing, and secure buying/selling of courses, fostering an engaging online learning experience.
 
+## **Table of Contents**  
+- [Screenshots](#screenshots)
+- [Features](#features)  
+- [Tech Stack](#tech-stack)  
+- [Installation](#installation)  
+- [Usage](#usage)  
+
+## Screenshots
+https://res.cloudinary.com/ddsqjzrow/image/upload/v1727244285/image_5_k1fofr.png
+  
 ## Features
 - **User Authentication:** Secure login and registration using JWT authentication.
 - **Course Management:** Students can browse, purchase, and access courses, while instructors can create and list courses.
@@ -22,7 +32,7 @@ StudyNotion is a full-stack EdTech platform designed to create a comprehensive l
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/studynotion.git
+   git clone https://github.com/kunalrawat19/Study-Notion.git
    cd studynotion
    ```
 2. Install dependencies:
